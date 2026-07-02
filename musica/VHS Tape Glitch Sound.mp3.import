@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/VHS Tape Glitch Sound.mp3-36eddf7439811ffd82b6e9c0b716160b.mp3str"
+
+[deps]
+
+source_file="res://musica/VHS Tape Glitch Sound.mp3"
+dest_files=[ "res://.import/VHS Tape Glitch Sound.mp3-36eddf7439811ffd82b6e9c0b716160b.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0
